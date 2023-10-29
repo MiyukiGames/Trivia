@@ -1,0 +1,37 @@
+{
+  "name": "Geography",
+  "color": [0,0,200],
+  "questions":
+  [
+    {
+      "question": "Who went in the upside down first",
+      "answers": ["Will","Joyce","Mike","El"],
+      "correct": 0
+    },
+    {
+      "question": "Who is the Sheriff ?",
+      "answers": ["Karen","Ted","Hopper","Joyce"],
+      "correct": 2
+    },
+    {
+      "question": "Who died in the second episode",
+      "answers": ["Will","Barb","Billy","Max"],
+      "correct": 1
+    },
+    {
+      "question": "Who has the highest score on DigDug",
+      "answers": ["Will","Lucas","Dustin","Max"],
+      "correct": 3
+    },
+    {
+      "question": "What are mornings for?",
+      "answers": ["Solving Crimes","Sloving Muders","Coffee & Contemplation","Contemplating Donuts"],
+      "correct": 2
+    },
+    {
+      "question": "Who is Joyce Byers",
+      "answers": ["Will's Mom","Barb's Mom", "Max's Mom","Mike's Mom"],
+      "correct": 0
+    }
+  ]
+}
