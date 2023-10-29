@@ -5,21 +5,6 @@
       "jsonVersion": 1,
       "jsonID": "000001",
       "jsonUrl": "https://raw.githubusercontent.com/MiyukiGames/Trivia/main/Json/Stranger%20Things.json"
-    },
-    {
-      "jsonVersion": 4,
-      "jsonID": "000002",
-      "jsonUrl": "url here"
-    },
-    {
-      "jsonVersion": 2,
-      "jsonID": "000003",
-      "jsonUrl": "url here"
-    },
-    {
-      "jsonVersion": 99,
-      "jsonID": "000004",
-      "jsonUrl": "url here"
     }
   ]
 }
