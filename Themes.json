@@ -3,12 +3,12 @@
   [
     {
       "jsonVersion": 2,
-      "jsonID": "000001",
+      "jsonID": "ST001",
       "jsonUrl": "https://raw.githubusercontent.com/MiyukiGames/Trivia/main/Json/Stranger%20Things.json"
     },
     {
       "jsonVersion": 1,
-      "jsonID": "000002",
+      "jsonID": "CT002",
       "jsonUrl": "https://raw.githubusercontent.com/MiyukiGames/Trivia/main/Json/Cats.json"
     }
   ]
