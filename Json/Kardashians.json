@@ -9,17 +9,17 @@
       "correct": 1
     },
     {
-      "question": "Who got the Noms ?",
+      "question": "Who got the Noms?",
       "answers": ["Khloe","Kylie","Kim","Kourtney"],
       "correct": 1
     },
     {
-      "question": "Who got arrested for DUI",
+      "question": "Who got arrested for DUI?",
       "answers": ["Khloe","Kourtney","Kim","Kris"],
       "correct": 1
     },
     {
-      "question": "What is Kris's son's name",
+      "question": "What is Kris's son's name?",
       "answers": ["Rob","Bob","Kevin","Kyle"],
       "correct": 1
     },
@@ -29,38 +29,43 @@
       "correct": 1
     },
     {
-      "question": "Who is Joyce Byers",
+      "question": "Who is Joyce Byers?",
       "answers": ["Will's Mom","Barb's Mom", "Max's Mom","Mike's Mom"],
       "correct": 1
     },
     {
-      "question": "Who is North's Mom",
+      "question": "Who is North's Mom?",
       "answers": ["Kim","Khloe","Kourtney","Kylie"],
       "correct": 1
     },
     {
-      "question": "Who is the Oldest Sister",
+      "question": "Who is the Oldest Sister?",
       "answers": ["Kourtney","Khloe","Kim","Kylie"],
       "correct": 1
     },
     {
-      "question": "Who is The Yongest Sister",
+      "question": "Who is The Yongest Sister?",
       "answers": ["Kylie","Kendall","Kim","Khloe"],
       "correct": 1
     },
     {
-      "question": "Who had stole Kim's wedding country",
+      "question": "Who had stole Kim's wedding country?",
       "answers": ["Kourtney","Kris","Katelyn","Khloe"],
       "correct": 1
     },
     {
-      "question": "Who lost her earring in the ocean",
+      "question": "Who lost her earring in the ocean?",
       "answers": ["Kim","Kylie","Kris","Khloe"],
       "correct": 1
     },
     {
-      "question": "Who said 'Kim, there's people dying'",
+      "question": "Who said 'Kim, there's people dying'?",
       "answers": ["Kourtney","Kylie","Kris","Khloe"],
+      "correct": 1
+    },
+    {
+      "question": "How many grandchildren does Kris have?",
+      "answers": ["12","14","10","16"],
       "correct": 1
     }
   ]
