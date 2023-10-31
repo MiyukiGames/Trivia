@@ -1,38 +1,81 @@
 {
   "name": "Cats",
-  "color": [0,140,0],
-  "id":"CT1",
-  "questions":
-  [
+  "color": [
+    165,
+    0,
+    0
+  ],
+  "id": "CT1",
+  "questions": [
     {
-      "question": "What does it mean when your cat barks",
-      "answers": ["Needs Update","It's normal","A Girl","El"],
-      "correct": 0
-    },
-    {
-      "question": "Who is the Sheriff ?",
-      "answers": ["Karen","Ted","Hopper","Joyce"],
-      "correct": 2
-    },
-    {
-      "question": "Who died in the second episode",
-      "answers": ["Will","Barb","Billy","Max"],
+      "question": "What size was the biggest cat",
+      "answers": [
+        "1.20m",
+        "1.40m",
+        "1.00m",
+        "0.80m"
+      ],
       "correct": 1
     },
     {
-      "question": "Who has the highest score on DigDug",
-      "answers": ["Will","Lucas","Dustin","Max"],
-      "correct": 3
+      "question": "What breed was the biggest cat",
+      "answers": [
+        "Main Coon",
+        "Ragdoll",
+        "Persian",
+        "Siberian"
+      ],
+      "correct": 1
     },
     {
-      "question": "What are mornings for?",
-      "answers": ["Solving Crimes","Sloving Muders","Coffee & Contemplation","Contemplating Donuts"],
-      "correct": 2
+      "question": "What was the weight biggest cat",
+      "answers": [
+        "15.0kg",
+        "12.5kg",
+        "10.0kg",
+        "17.5kg"
+      ],
+      "correct": 1
     },
     {
-      "question": "Who is Joyce Byers",
-      "answers": ["Will's Mom","Barb's Mom", "Max's Mom","Mike's Mom"],
-      "correct": 0
+      "question": "What is the word for cat in egyptian",
+      "answers": [
+        "Mao",
+        "Miao",
+        "Meow",
+        "Miw"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "How old was the oldest cat to ever live",
+      "answers": [
+        "38",
+        "33",
+        "28",
+        "43"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What is a group of cats called",
+      "answers": [
+        "A Clowder",
+        "A Clawder",
+        "A Clouder",
+        "A Clewder"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Is it normal for a cat to bark",
+      "answers": [
+        "Needs an Update",
+        "No",
+        "Yes",
+        "Bark !"
+      ],
+      "correct": 4
     }
   ]
 }
