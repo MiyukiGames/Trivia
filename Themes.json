@@ -7,7 +7,7 @@
       "jsonUrl": "https://raw.githubusercontent.com/MiyukiGames/Trivia/main/Json/Stranger%20Things.json"
     },
     {
-      "jsonVersion": 1,
+      "jsonVersion": 2,
       "jsonID": "CT1",
       "jsonUrl": "https://raw.githubusercontent.com/MiyukiGames/Trivia/main/Json/Cats.json"
     }
