@@ -10,6 +10,11 @@
       "jsonVersion": 2,
       "jsonID": "CT1",
       "jsonUrl": "https://raw.githubusercontent.com/MiyukiGames/Trivia/main/Json/Cats.json"
+    },
+    {
+      "jsonVersion": 2,
+      "jsonID": "CT2",
+      "jsonUrl": "https://raw.githubusercontent.com/MiyukiGames/Trivia/main/Json/Cats.json"
     }
   ]
 }
