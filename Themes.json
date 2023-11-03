@@ -3,17 +3,17 @@
   [
     {
       "jsonVersion": 2,
-      "jsonID": "ST1",
+      "jsonID": "STR1",
       "jsonUrl": "https://raw.githubusercontent.com/MiyukiGames/Trivia/main/Json/Stranger%20Things.json"
     },
     {
       "jsonVersion": 2,
-      "jsonID": "CT1",
+      "jsonID": "CAT1",
       "jsonUrl": "https://raw.githubusercontent.com/MiyukiGames/Trivia/main/Json/Cats.json"
     },
     {
       "jsonVersion": 2,
-      "jsonID": "CT2",
+      "jsonID": "GEO1",
       "jsonUrl": "https://raw.githubusercontent.com/MiyukiGames/Trivia/main/Json/Geography.json"
     }
   ]
