@@ -1,10 +1,6 @@
 {
   "name": "Cats",
-  "color": [
-    150,
-    150,
-    150
-  ],
+  "color": [150,150,150],
   "id": "CAT1",
   "questions": [
     {
