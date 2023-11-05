@@ -15,6 +15,11 @@
       "jsonVersion": 2,
       "jsonID": "GEO1",
       "jsonUrl": "https://raw.githubusercontent.com/MiyukiGames/Trivia/main/Json/Geography.json"
+    },
+    {
+      "jsonVersion": 1,
+      "jsonID": "KDS1",
+      "jsonUrl": "https://raw.githubusercontent.com/MiyukiGames/Trivia/main/Json/Kardashians.json"
     }
   ]
 }
