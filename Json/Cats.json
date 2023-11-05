@@ -11,7 +11,7 @@
         "1.00m",
         "0.80m"
       ],
-      "correct": 1
+      "correct": [0]
     },
     {
       "question": "What breed was the biggest cat",
@@ -21,7 +21,7 @@
         "Persian",
         "Siberian"
       ],
-      "correct": 1
+      "correct": [0]
     },
     {
       "question": "What was the weight biggest cat",
@@ -31,7 +31,7 @@
         "10.0kg",
         "17.5kg"
       ],
-      "correct": 1
+      "correct": [0]
     },
     {
       "question": "What is the word for cat in egyptian",
@@ -41,7 +41,7 @@
         "Meow",
         "Miw"
       ],
-      "correct": 1
+      "correct": [0]
     },
     {
       "question": "How old was the oldest cat to ever live",
@@ -51,7 +51,7 @@
         "28",
         "43"
       ],
-      "correct": 1
+      "correct": [0]
     },
     {
       "question": "What is a group of cats called",
@@ -61,7 +61,7 @@
         "A Clouder",
         "A Clewder"
       ],
-      "correct": 1
+      "correct": [0]
     },
     {
       "question": "Is it normal for a cat to bark",
@@ -71,7 +71,7 @@
         "Yes",
         "Bark !"
       ],
-      "correct": 4
+      "correct": [0,1,2,3]
     }
   ]
 }
