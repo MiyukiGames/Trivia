@@ -7,82 +7,82 @@
     {
       "question": "Who went in the upside down first",
       "answers": ["Will","Joyce","Mike","El"],
-      "correct": 1
+      "correct": [0]
     },
     {
       "question": "Who is the Sheriff ?",
       "answers": ["Hopper","Karen","Ted","Joyce"],
-      "correct": 1
+      "correct": [0]
     },
     {
       "question": "Who died in the second episode",
       "answers": ["Barb","Will","Billy","Max"],
-      "correct": 1
+      "correct": [0]
     },
     {
       "question": "Who has the highest score on DigDug",
       "answers": ["Max","Will","Lucas","Dustin"],
-      "correct": 1
+      "correct": [0]
     },
     {
       "question": "What are mornings for?",
       "answers": ["Coffee & Contemplation","Solving Crimes","Sloving Muders","Contemplating Donuts"],
-      "correct": 1
+      "correct": [0]
     },
     {
       "question": "Who is Joyce Byers",
       "answers": ["Will's Mom","Barb's Mom", "Max's Mom","Mike's Mom"],
-      "correct": 1
+      "correct": [0]
     },
     {
       "question": "What is Papa's Name",
       "answers": ["Brenner","Brennan","Brandon","Brandan"],
-      "correct": 1
+      "correct": [0]
     },
     {
       "question": "Who is Vecna",
       "answers": ["Henry","Harrold","Harry","Hairy"],
-      "correct": 1
+      "correct": [0]
     },
     {
       "question": "How did El visit her mom",
       "answers": ["Big Truck","Big Bus","Big Train","Big Car"],
-      "correct": 1
+      "correct": [0]
     },
     {
       "question": "Where did Bob Die",
       "answers": ["The Lab","The Library","The Radio Shack","Byers's Home"],
-      "correct": 1
+      "correct": [0]
     },
     {
       "question": "What is Kelly's Number",
       "answers": ["008","002","011","010"],
-      "correct": 1
+      "correct": [0]
     },
     {
       "question": "What the name of the test at the Lab",
       "answers": ["MKUltra","LKUltra","LXMega","LSMega"],
-      "correct": 1
+      "correct": [0]
     },
     {
       "question": "What does Will say when asked who is Joyce",
       "answers": ["You're Mom","","LXMega","LSMega"],
-      "correct": 1
+      "correct": [0]
     },
     {
       "question": "What is the name of the Dimension",
       "answers": ["The Upside Down","The Rightside Up","The Flippedside Down","The Downside Up"],
-      "correct": 1
+      "correct": [0]
     },
     {
       "question": "What is the name of the Arcade",
       "answers": ["The Palace Arcade","The Strange Arcade","The Retro Arcade","The Cyber Arcade"],
-      "correct": 1
+      "correct": [0]
     },
     {
       "question": "Where was Will's body found",
       "answers": ["The Quarry","Lover's Lake","Mirkwood","Benny's Burger"],
-      "correct": 1
+      "correct": [0]
     }
   ]
 }
