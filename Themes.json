@@ -12,7 +12,7 @@
       "jsonUrl": "https://raw.githubusercontent.com/MiyukiGames/Trivia/main/Json/Cats.json"
     },
     {
-      "jsonVersion": 3,
+      "jsonVersion": 4,
       "jsonID": "GEO1",
       "jsonUrl": "https://raw.githubusercontent.com/MiyukiGames/Trivia/main/Json/Geography.json"
     },
