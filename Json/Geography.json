@@ -5,9 +5,9 @@
   "questions":
   [
     {
-      "question": "Who went in the upside down first",
-      "answers": ["Will","Joyce","Mike","El"],
-      "correct": [0]
+      "question": "Do You Want This Quiz To Be Over",
+      "answers": ["Yes","Duh","OFC","Hell Yeah"],
+      "correct": [0,1,2,3]
     }
   ]
 }
